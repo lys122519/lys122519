@@ -1,8 +1,8 @@
 ### 我是如梦👋
 
-🔭 I’m currently working on ...
+🔭 正在毫无前途的生活着
 
-🌱 I’m currently learning ...
+<!-- 🌱 
 
 👯 I’m looking to collaborate on ...
 
@@ -10,10 +10,10 @@
 
 💬 Ask me about ...
 
-📫 How to reach me: liangys0225@qq.com
-
 😄 Pronouns: ...
 
-⚡ Fun fact: ...
+⚡ Fun fact: ... --!>
+
+📫 How to reach me: liangys0225@qq.com
 
 ![](https://github-readme-stats.vercel.app/api?username=lys122519)
